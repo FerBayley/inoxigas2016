@@ -1,0 +1,74 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	background-color: #818285;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+figure {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+footer {
+	margin: .8em 0 0 0;
+	text-align: center;
+}
+footer a {
+	color: #DDD;
+	text-decoration: none;
+}
+footer a:hover {
+	color: #FFF;
+	text-decoration: underline;
+}
+footer h6 {
+	color: #FFF;
+	font-size: 1em;
+	font-weight: 100;
+}
+.Logo {
+	margin: 0 auto;
+	height: 295px;
+	margin-top: 7em;
+	width: 314px;
+}
+.Principal {
+	height: auto;
+	width: 100%;
+}
+.Proximamente {
+	height: auto;
+	margin-top: .2em;
+	text-align: center;
+	width: 100%;
+}
+.Proximamente h2 {
+	color: #FFF;
+	font-size: 1.2em;
+}
+.Redes {
+	margin: 1.5em 0 1.5em 0;
+	text-align: center;
+}
+.Redes ul li {
+	display: inline-block;
+	padding: 0 .5em 0 .5em;
+	vertical-align: middle;
+}
+.Redes ul li:hover {
+	opacity: .8;
+}
+.Sub-titulo {
+	height: auto;
+	margin-top: .4em;
+	text-align: center;
+	width: 100%;
+}
+.Sub-titulo h2 {
+	color: #FFF;
+}
+
+
